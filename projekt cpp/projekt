@@ -1,0 +1,17 @@
+				~TEMAT~ 
+	biblioteka do przyjmowania danych i szyfrująca je
+
+jakie klasy? 	
+		- obsługa danych wejściowych (inputHandler) 
+przyjmowanie danych od użytkownika (pliki, konsola, socket) + walidacja 
+		- szyforwanie danych (Encryptor) 
+szyfrowanie danych + obsługa algorytmów 
+		- deszyforwanie danych 
+klasa do deszyfrowania 
+		- obsługa danych wyjściowych (outputHandler) 
+co jeszcze? 
+		- obsługa sieci 
+przyjmowanie i wysyłanie dancyh przez protokół TCP lub UDP + bufor 
+	
+
+
